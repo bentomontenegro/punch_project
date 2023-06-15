@@ -2,8 +2,13 @@
 
 Hi, friends.
 
-This repo is intended to publicly share Qiskit implementations of the main tools I'm using in the development of my PhD project (for example, time evolution and quantum trajectories).
+This repo is intended to publicly share Qiskit implementations of the main tools I'm using in the development of my PhD project, such as
 
-Of course not all information is given, but hopefully the codes and the explanations can help those who are trying to implement similar concepts in Qiskit.
+1. Unitary time evolution
+2. Quantum trajectories
+3. Ancillary alternatives to implement non-unitary evolutions in Qiskit
+4. Noisy and noise-free simulations of these two last concepts
+
+Of course not all information is given, but hopefully the codes and their explanation can help those who are trying to implement similar concepts.
 
 Any suggestions, PR's or comments are more than welcome.

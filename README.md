@@ -1,7 +1,5 @@
 # Bento Montenegro's PhD project
 
-Hi, friends.
-
 This repository is intended to publicly share Qiskit implementations of the main tools I'm using in the development of my PhD project, such as
 
 1. Unitary time evolution

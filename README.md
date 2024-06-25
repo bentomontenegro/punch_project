@@ -1,12 +1,12 @@
-# Bento Montenegro's PhD project
+# Punched qubit chain
 
-This repository is intended to publicly share Qiskit implementations of the main tools I'm using in the development of my PhD project, such as
+In this project I use qiskit 1.0 to investigate what happens to a chain of 3 qubits, where one of the end-tip qubits is submit to periodic measurements.
 
-1. Unitary time evolution
-2. Quantum trajectories
-3. Ancillary alternatives to implement non-unitary evolutions in Qiskit
-4. Noisy and noise-free simulations of these two last concepts
+The main tools used are:
 
-Of course not all information about the project is given, but hopefully the codes and their explanation can help those who are trying to implement similar concepts.
+- Quantum trajectories
+- Qiskit primitives
+- Time-evolution in qiskit
+- VQE in qiskit
 
-Any suggestions, PR's or comments are more than welcome.
+This is one of the projects of my PhD research. If you have any question, feel free to send me an email: bentomontenegro@gmail.com

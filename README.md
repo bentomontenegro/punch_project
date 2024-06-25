@@ -9,4 +9,4 @@ The main tools used are:
 - Time-evolution in qiskit
 - VQE in qiskit
 
-This is one of the projects of my PhD. If you have any question, you can send me an email: bentomontenegro@gmail.com
+This is one of the projects of my PhD research. If you have any question, you can send me an email: bentomontenegro@gmail.com
